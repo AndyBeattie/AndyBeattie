@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyBeattie
 - 👀 I’m interested in Rust Programming, Blockchain, C/C++, Direct X, Python, Django
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Python, Django & React
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me muonsales@gmail.com
 
