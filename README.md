@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AndyBeattie
-- 👀 I’m interested in Rust Programming, Blockchain, C/C++, Direct X, Python, Django
-- 🌱 I’m currently learning Python, Django & React
-- 💞️ I’m looking to collaborate on Anything
+- 👀 I’m interested C/C++, C#,.NET, ASP.NET Core, Blazor, Python, LUA, GODOT Game Engine & ROBLOX 
+- 🌱 I’m currently learning The GODOT Game Engine
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me muonsales@gmail.com
 
-I am currently building my own test projects for the new Playdate handheld gaming console.
+I am currently building my own projects but would love to collaborate.
 
 <!---
 AndyBeattie/AndyBeattie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
